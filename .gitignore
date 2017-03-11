@@ -47,4 +47,5 @@ Temporary Items
 .apdisk
 
 # kompas temp
-.m3~
+*.m3~
+*.a3~
